@@ -1,7 +1,0 @@
-Hello s1mple
-How are you?
-I am very excited~
-Fine!
-I am fine too.
-Update by master.
-Update by dev.
